@@ -1,0 +1,16 @@
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\bin\Debug\net5.0\SWP-VisitorPattern.exe
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\bin\Debug\net5.0\SWP-VisitorPattern.deps.json
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\bin\Debug\net5.0\SWP-VisitorPattern.runtimeconfig.json
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\bin\Debug\net5.0\SWP-VisitorPattern.runtimeconfig.dev.json
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\bin\Debug\net5.0\SWP-VisitorPattern.dll
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\bin\Debug\net5.0\ref\SWP-VisitorPattern.dll
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\bin\Debug\net5.0\SWP-VisitorPattern.pdb
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\SWP-VisitorPattern.csprojAssemblyReference.cache
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\SWP-VisitorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\SWP-VisitorPattern.AssemblyInfoInputs.cache
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\SWP-VisitorPattern.AssemblyInfo.cs
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\SWP-VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\SWP-VisitorPattern.dll
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\ref\SWP-VisitorPattern.dll
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\SWP-VisitorPattern.pdb
+C:\Users\abru1\OneDrive\Dokumente\SchoolData\FH-SWP\SWP-VisitorPattern\obj\Debug\net5.0\SWP-VisitorPattern.genruntimeconfig.cache
